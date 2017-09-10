@@ -1,5 +1,9 @@
 # RTC DS 1302 on Raspberry Pi 3 Model B under CentOS 7
 
+Real Time Clock (RTC) is a time-keeping module that keep time running when Pi not connected to power supply and internet. In this section, we will use RTC DS 1302 with lithium battery.
+
+We use Raspberry Pi 3 Model B and CentOS Userland 7 Minimal. We need C compiler to compile the program.
+
 ## Compiling and Installing
 
 To compile and install RTC DS 1302 module, run commands below.
